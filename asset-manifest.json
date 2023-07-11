@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.dc905023.css",
+    "main.js": "/React-Portfolio/static/js/main.7616fd3b.js",
+    "static/media/project-1.jpg": "/React-Portfolio/static/media/project-1.4a14807c958536926f22.jpg",
+    "static/media/project-5.jpg": "/React-Portfolio/static/media/project-5.ffde37e4d6349a6b98fc.jpg",
+    "static/media/project-3.jpg": "/React-Portfolio/static/media/project-3.828a38dac99d79be8ec6.jpg",
+    "static/media/project-6.jpg": "/React-Portfolio/static/media/project-6.bcc03c6502023cc8aa64.jpg",
+    "static/media/project-2.jpg": "/React-Portfolio/static/media/project-2.1690de8572c8bfd23af7.jpg",
+    "static/media/project-4.jpg": "/React-Portfolio/static/media/project-4.c0a02edca55755c9c3b4.jpg",
+    "static/media/helvetica-neu.ttf": "/React-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/React-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/React-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/React-Portfolio/index.html",
+    "main.dc905023.css.map": "/React-Portfolio/static/css/main.dc905023.css.map",
+    "main.7616fd3b.js.map": "/React-Portfolio/static/js/main.7616fd3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc905023.css",
+    "static/js/main.7616fd3b.js"
+  ]
+}
